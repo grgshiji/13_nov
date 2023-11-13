@@ -1,0 +1,21 @@
+{
+  "name": "13_nov",
+  "type": "package",
+  "blockId": "YEB62CyT6DdsZCdRWGAhv",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_13_nov"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "7_Sep": {
+      "directory": "7_Sep"
+    }
+  }
+}

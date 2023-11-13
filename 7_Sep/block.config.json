@@ -1,0 +1,39 @@
+{
+  "name": "7_Sep",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_7_Sep"
+  },
+  "dependencies": {
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    }
+  },
+  "blockId": "H5nsPM7m3j7oYsyxZZD_5",
+  "parentBlockIDs": [
+    "YEB62CyT6DdsZCdRWGAhv"
+  ],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "variantOfBlockId": "9ug9Pivnl9uxGP0xX8BdZ"
+}
